@@ -1,0 +1,337 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+.manu {
+  color: #224259;
+}
+.get-in {
+  background-color: #5693bf;
+  width: 176px;
+  padding: 20px 32px;
+  border-radius: 12px;
+}
+.space {
+  margin-top: 96px;
+}
+.arrow {
+  background-color: #54be72;
+  width: 140px;
+  height: 103px;
+  border-radius: 51.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.font-section {
+  font-weight: 700;
+  font-size: 120px;
+  font-family: "Varent Grotesk";
+  line-height: 110%;
+  color: #224259;
+}
+.Digital-Agency {
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffffff;
+  background: #f17999;
+  border-radius: 55.5px;
+  width: 334px;
+  height: 103px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.work-form {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: "Varent Grotesk";
+  width: 439px;
+  height: 103px;
+  background: #fac252;
+  border-radius: 55.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.img-section {
+  margin-top: 42px;
+}
+.services {
+  color: #224259;
+  font-family: "SF UI Display";
+  width: 600px;
+  margin-top: 136px;
+}
+.our-services {
+  background-color: #e5eef5;
+  margin-top: 116px;
+}
+.counter {
+  margin-top: 160px;
+}
+.counter-section {
+  font-weight: 700;
+  font-size: 48px;
+  font-family: "Varent Grotesk";
+  color: #224259;
+}
+.Happy-Customers {
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 61px;
+}
+.Our-Story {
+  margin-top: 163px;
+  color: #224259;
+  margin-left: 103px;
+}
+.img-box {
+  background-color: #f17999;
+  border-radius: 260px 260px 8px 8px;
+  padding-top: 30px;
+  width: 520px;
+  height: 663px;
+}
+.mask {
+  font-weight: 700;
+  font-size: 80px;
+  font-family: "Varent Grotesk";
+  color: #fff;
+}
+.mask-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.years {
+  font-weight: 700;
+  font-size: 30px;
+  color: #fff;
+}
+.text-section {
+  margin-left: 104px;
+}
+.blog-section {
+  font-weight: 700;
+  font-size: 64px;
+  color: #224259;
+  font-family: "Varent Grotesk";
+  width: 599px;
+
+  margin-bottom: 30px;
+}
+.blog-text {
+  font-weight: 400;
+  font-size: 20px;
+  width: 600px;
+  height: 64px;
+  font-family: "SF UI Display";
+}
+.story {
+  margin-top: 40px;
+}
+.get-in-touch {
+  font-weight: 500;
+  font-size: 20px;
+  color: #fff;
+  background: #5693bf;
+  border-radius: 12px;
+}
+.latest {
+  margin-top: 160px;
+  margin-bottom: 46px;
+  color: #224259;
+}
+.latest button {
+  padding: 20px 32px;
+  background: #5693bf;
+  border-radius: 12px;
+}
+.slider-img {
+  width: 548px;
+  height: 380px;
+  border-radius: 24px;
+}
+
+.John-Wyatt img {
+  width: 56px;
+  height: 56px;
+}
+.John-Wyatt h5 {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  padding-top: 32px;
+  margin-left: 10px;
+  height: 32px;
+  margin-left: 10px;
+}
+.John-Wyatt p {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  width: 156px;
+  height: 26px;
+  margin-left: 10px;
+  width: 156px;
+  height: 26px;
+  padding-top: 10px;
+}
+.box-border {
+  border-radius: 24px;
+  background-color: #e5eef5;
+  margin-left: 32px;
+  margin-bottom: 32px;
+  width: 304px;
+  height: 298px;
+  color: #224259;
+  align-items: center;
+  flex-grow: 32px;
+}
+.box-border h6 {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+}
+.box-border:hover {
+  background-color: #5693bf;
+  color: #fff;
+}
+
+.card-box {
+  width: 304px;
+  background: #e5eef5;
+  border-radius: 24px;
+}
+.news-letter-section {
+  background: #e5eef5;
+  height: 382px;
+  margin-bottom: 160px;
+}
+.news-letter {
+  margin-top: 160px;
+  color: #224259;
+  font-family: "Varent Grotesk";
+}
+.letter-text {
+  margin-top: 120px;
+}
+.letter-box {
+  background-image: url(img/bg.png);
+  background-repeat: no-repeat;
+}
+.button-box {
+  background-color: #5693bf;
+}
+.check-box {
+  margin-top: 32px;
+}
+.latest {
+  color: #224259;
+}
+.Latest-Case {
+  font-weight: 700;
+  font-size: 64px;
+  width: 660px;
+  height: 70px;
+}
+.testimonial {
+  background: #ffd6e1;
+  border-radius: 8px;
+  color: #224259;
+  width: 496px;
+  height: 628px;
+  margin-left: 88px;
+}
+.testimonial img {
+  padding-top: 32px;
+}
+.testimonial-text {
+  width: 384px;
+  height: 70px;
+  font-weight: 700;
+  font-size: 64px;
+  padding-left: 48px;
+  font-style: normal;
+}
+.testimonial-info {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "SF UI Display";
+  font-style: normal;
+  width: 400px;
+  height: 96px;
+  padding-left: 48px;
+}
+.back-img {
+  background-image: url(img/Group6668.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.want {
+  margin-top: 160px;
+}
+.blog-box h5 {
+  font-weight: 700;
+  font-size: 64px;
+  font-family: "Varent Grotesk";
+  height: 70px;
+  color: #224259;
+}
+.blog-box p {
+  font-weight: 400;
+  font-size: 20px;
+  height: 64px;
+  color: #224259;
+  font-family: "SF UI Display";
+}
+.blog-news h5 {
+  color: #224259;
+  margin-top: 24px;
+}
+
+.want-section {
+  background-color: #5693bf;
+  color: #fff;
+  padding-top: 96px;
+  border-radius: 0 0 20px 0;
+  height: 350px;
+}
+.want-section button {
+  padding: 20px 32px;
+  border-radius: 12px;
+  width: 161px;
+}
+.join-section {
+  background-color: #f17999;
+  color: #fff;
+  padding-top: 96px;
+  border-radius: 0 0 0px 20px;
+  height: 350px;
+}
+.join-section button {
+  padding: 20px 32px;
+  border-radius: 12px;
+  width: 161px;
+}
+
+.ageland {
+  margin-top: 136px;
+}
+.blog-img {
+  background-image: url(img/back.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.logo-text {
+  color: #f17999;
+}
